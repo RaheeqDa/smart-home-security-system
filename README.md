@@ -62,10 +62,3 @@ FSM: **Sleep → Wake → Read → Transmit → Sleep**
 
 ---
 
-## 📸 Project Media
-(Add your diagrams, PCB layouts, or prototype photos here)  
-
-```markdown
-![System Block Diagram](system_block.png)
-![PCB Layout](3Dmockup.jpeg)
-![Prototype](mockup.jpeg)
