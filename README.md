@@ -1,4 +1,4 @@
-# Modular Smart Home Security System (IoT Project)
+# Modular Smart Home Security System (IoT Project) (Ongoing)
 
 A modular, **IoT-based smart home security system** built with **CubeCell + LoRa**, custom **PCB design in OrCAD**, and sensors for motion, temperature, and gas detection.  
 The project was developed as part of an Electrical & Computer Engineering program at **Technion – Israel Institute of Technology**.
