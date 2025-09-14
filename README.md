@@ -68,4 +68,4 @@ FSM: **Sleep → Wake → Read → Transmit → Sleep**
 ```markdown
 ![System Block Diagram](system_block.png)
 ![PCB Layout](pcb_layout.png)
-![Prototype](prototype.jpg)
+![Prototype](prototype.jpeg)
