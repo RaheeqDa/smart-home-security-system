@@ -1,0 +1,38 @@
+"  Revised: Tuesday, July 22, 2025"				
+          Revision: 				
+				
+				
+				
+				
+				
+				
+				
+"Bill Of Materials           July 22,2025      15:49:46"	Page1			
+				
+Item	Quantity	Reference	Part	PCB Footprint
+______________________________________________				
+				
+1	1	C1	0.01u	603
+2	4	"C2,C3,C10,C11"	10uF	603
+3	6	"C4,C5,C6,C12,C13,C14"	22uF	603
+4	2	"C7,C16"	100nF	603
+5	1	C8	1u	603
+6	1	C9	10u	603
+7	2	"C15,C17"	2.2u	603
+8	1	IC2	TMP101NA_3K	sot23-6_TI
+9	1	J1	HEADER4	HEADER4
+10	1	J2	Header3	header3
+11	1	J3	Battery	HEADER2
+12	1	J4	087-1-004-0-F-XS0-1260	HEADER4
+13	1	J5	HEADER2	header2
+14	2	"L1,L2"	1.5uH	603
+15	1	PB1	SW PUSHBUTTON	SW_SMT_BUTTON
+16	2	"PS1,PS2"	TPS63020DSJT	VSON14-3X4
+17	3	"R1,R2,R3"	5k	603
+18	1	R4	1.6M	603
+19	2	"R5,R7"	180k	603
+20	1	R6	1M	603
+21	2	"R8,R9"	10k	603
+22	1	R10	130K	603
+23	1	R11	100K	603
+24	1	U1	CubeCell	CubeCell
